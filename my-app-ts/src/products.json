@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Milk", "price": 2.49 },
+    { "id": 2, "name": "Bread", "price": 1.99 },
+    { "id": 3, "name": "Eggs", "price": 3.29 },
+    { "id": 4, "name": "Apples", "price": 0.99 },
+    { "id": 5, "name": "Bananas", "price": 0.59 },
+    { "id": 6, "name": "Chicken breasts", "price": 4.99 },
+    { "id": 7, "name": "Ground beef", "price": 5.49 },
+    { "id": 8, "name": "Salmon fillets", "price": 9.99 },
+    { "id": 9, "name": "Lettuce", "price": 1.49 },
+    { "id": 10, "name": "Tomatoes", "price": 1.29 }
+  ]
